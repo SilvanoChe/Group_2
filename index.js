@@ -9,5 +9,7 @@ console.log("Francis");
 console.log("Bryan");
 console.log("Jerlon");
 console.log("Patricia");
+console.log("Jovie Jurac");
+console.log("Avie");
 
 
