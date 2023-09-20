@@ -12,3 +12,4 @@ console.log("Patricia");
 console.log("Jovie Jurac");
 console.log("Avie");
 console.log("Alisa");
+console.log("Mariz");
