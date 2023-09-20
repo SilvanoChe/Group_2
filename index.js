@@ -8,6 +8,6 @@ console.log("Apple");
 console.log("Jovie Jurac");
 console.log("Francis");
 console.log("Bryan");
-
-
+console.log("Jerlon");
+console.log("Avie");
 
